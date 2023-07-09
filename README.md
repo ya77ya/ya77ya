@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cs.umd.edu/sites/default/files/images/article/2020/covidbot.gif)](https://ya77ya.io)
+![MasterHead](https://www.cs.umd.edu/sites/default/files/images/article/2020/covidbot.gif)
 <h1 align="center">Hi 👋, I'm Yahya AL-Najjar</h1>
 <h3 align="center">Full-Stack Engineer | Mechatronics | Robotic | Industrial Automation</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/84/8c/34/848c342a56e7854dec45b9349c21dfe5.gif">
